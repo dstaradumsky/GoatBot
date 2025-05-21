@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  },
+  "name": "goatbot",
+  "version": "1.0.0",
+  "description": "goated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dstaradumsky/goat_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dstaradumsky/goat_bot/issues"
+  },
+  "homepage": "https://github.com/dstaradumsky/goat_bot#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "eslint": "^9.27.0"
+  }
+}
